@@ -3,7 +3,7 @@
 Kernel
 ######
 
-July-01 - Test Commits.
+July-01 - Second Test Commit.
 
 .. toctree::
    :maxdepth: 1
